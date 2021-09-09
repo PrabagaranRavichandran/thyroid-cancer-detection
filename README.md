@@ -1,1 +1,1 @@
-# thyroid-cancer-detection
+# thyroid-cancer-detection-using-thermography
